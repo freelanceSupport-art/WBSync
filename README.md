@@ -85,6 +85,3 @@ PyInstallerで `--icon` を指定しているため、Explorerに表示される
 - [公開前チェックリスト](docs/PUBLISHING_CHECKLIST.md)
 - [マーケティング素材](docs/marketing/landing-copy.md)
 
-## Release Policy
-
-`dist\WBSync.exe` はGit管理対象外です。公開時はGitHub Releasesへ添付してください。
