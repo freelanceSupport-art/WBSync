@@ -83,5 +83,4 @@ PyInstallerで `--icon` を指定しているため、Explorerに表示される
 - [使い方](docs/USAGE.md)
 - [ロードマップ](docs/ROADMAP.md)
 - [公開前チェックリスト](docs/PUBLISHING_CHECKLIST.md)
-- [マーケティング素材](docs/marketing/landing-copy.md)
 
