@@ -1,0 +1,12 @@
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+wbsync_project.json
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+*.log

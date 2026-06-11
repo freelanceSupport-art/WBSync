@@ -1,0 +1,1 @@
+"""WBSync desktop application package."""
